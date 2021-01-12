@@ -1,0 +1,6 @@
+;------------------------------------------------------------------------------
+; mod/commandbutton.inc
+;
+;Command buttons are buttons that we place on the in game UI to create the
+;context sensitive command sets
+;------------------------------------------------------------------------------
